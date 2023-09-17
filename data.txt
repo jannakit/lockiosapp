@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Pink.png",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Pink_thumb.png"
+  },
+  {
     "url": "https://github.com/jannakit/freesource/raw/main/images/ios17_1.png",
     "thumb": "https://github.com/jannakit/freesource/raw/main/images/ios17_1_thumb.png"
   },
