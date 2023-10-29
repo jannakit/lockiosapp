@@ -16,6 +16,18 @@
     "thumb": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_pro_Gold_thumb.png"
   },
   {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Black.png",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Black_thumb.png"
+  },
+  {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Blue.png",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Blue_thumb.png"
+  },
+  {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Green.png",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Green_thumb.png"
+  },
+  {
     "url": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Pink.png",
     "thumb": "https://github.com/jannakit/freesource/raw/main/images/iPhone_15_Pink_thumb.png"
   },
