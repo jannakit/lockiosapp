@@ -1,5 +1,9 @@
 [
   {
+    "url": "https://github.com/jannakit/freesource/raw/main/images/ios18_2.png",
+    "thumb": "https://github.com/jannakit/freesource/raw/main/images/ios18_2_thumb.png"
+  },
+  {
     "url": "https://github.com/jannakit/freesource/raw/main/images/ios18_1.png",
     "thumb": "https://github.com/jannakit/freesource/raw/main/images/ios18_1_thumb.png"
   },
